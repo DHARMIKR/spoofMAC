@@ -23,7 +23,7 @@ python script_name.py --interface interface_name --mac new_mac_address
 
 And then hit Enter
 
-This 1 command will your change your mac address very quickly.
+This 1 command will change your mac address very quickly.
 
 Here --interface specifies for which interface you want to change your mac address
 
